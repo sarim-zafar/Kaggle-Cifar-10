@@ -1,8 +1,8 @@
 # Cifar-10 Kaggle
 The aim of this project is to share my notebooks and my modest attempt at the staple dataset(So that you can rip me off).
 Even though the competition is closed I decided to participate as a exercise/weekend project(because why not).
-I was able to get around 0.86310 on the leaderboard.(Should've paid more attention to the training phase than Rick and Morty)
-The dataset is modified than tradition Cifar-10 you can find it [here](https://www.kaggle.com/c/cifar-10)
+I was able to get around 0.86310 on the leaderboard(Should've paid more attention to the training phase than Rick and Morty).
+The dataset is modified version of traditional Cifar-10 and you can find it [here](https://www.kaggle.com/c/cifar-10)
 
 ## Getting Started
 
